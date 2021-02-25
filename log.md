@@ -1,16 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 25, 2021 
+### Day 1: February 25, 2021 
 
 
-**Today's Progress**: 
+**Today's Progress**: Today was back to basics. I reviewed print and input statements, manipulations of strings and variable assignments.\
+I have created a program generating a band name with inouts from the user.
 
-**Thoughts:** 
+**Thoughts:** Easy topics but good to start up on this exciting journey.
 
 **Link to work:** 
 
 
-### Day 1: February 26, 2021
+### Day 2: February 26, 2021
 
 **Today's Progress**: 
 
