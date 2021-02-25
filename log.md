@@ -8,7 +8,7 @@ I have created a program generating a band name with inouts from the user.
 
 **Thoughts:** Easy topics but good to start up on this exciting journey.
 
-**Link to work:** 
+**Link to work:** [Band Name Generator](https://github.com/cedoula/100-days-of-code/blob/master/Projects/Day_01/band_name_generator.py)
 
 
 ### Day 2: February 26, 2021
