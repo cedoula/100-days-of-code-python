@@ -17,7 +17,7 @@ I have created a program generating a band name from user inputs.
 
 **Thoughts** I enjoyed going through the material and building the tip calculator app. It is accessible from my cellphone so very handy in real life when it is time to split the bill!
 
-**Link(s) to work**
+**Link(s) to work** [Tip Calculator](https://github.com/cedoula/100-days-of-code/blob/master/Projects/Day_02/tip_calculator.py)
 
 
 ### Day 3: February 27, 2021
