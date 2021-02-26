@@ -1,7 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
 <img src="https://blog.hyperiondev.com/wp-content/uploads/2018/11/Blog-100DaysOfCode.jpg" class="img-responsive" alt="Responsive image" width=auto height=auto>
-<br>
 
 # About
 
