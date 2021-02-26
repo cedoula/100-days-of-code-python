@@ -4,7 +4,7 @@
 
 
 **Today's Progress**: Today was back to basics. I reviewed print and input statements, manipulations of strings and variable assignments.\
-I have created a program generating a band name with inputs from the user.
+I have created a program generating a band name from user inputs.
 
 **Thoughts:** Easy topics but good to start up on this exciting journey.
 
