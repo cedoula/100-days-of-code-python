@@ -13,9 +13,17 @@ I have created a program generating a band name from user inputs.
 
 ### Day 2: February 26, 2021
 
+**Today's Progress**: Still digging in the basics. Today I reviewed the major data types (str, int, float, bool), mathematical operators, rounding, formatting and F-String.
+
+**Thoughts** I enjoyed going through the material and building the tip calculator app. It is accessible from my cellphone so very handy in real life when it is time to split the bill!
+
+**Link(s) to work**
+
+
+### Day 3: February 27, 2021
+
 **Today's Progress**: 
 
 **Thoughts**
 
 **Link(s) to work**
-
