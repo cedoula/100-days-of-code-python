@@ -26,7 +26,7 @@ I have created a program generating a band name from user inputs.
 
 **Thoughts** It was interesting to use nested if/elif/else statements, multiple if statements. I had fun building the love_calculator and treasure_island games. Good revision of functions like lower() and count() and how to include ASCII art with print('''     ''''). 
 
-**Link(s) to work**
+**Link(s) to work** [Love Calculator](https://github.com/cedoula/100-days-of-code/blob/master/Projects/Day_03/love_calculator.py), [Treasure Island](https://github.com/cedoula/100-days-of-code/blob/master/Projects/Day_03/treasure_island.py)
 
 
 ### Day 4: February 28, 2021
