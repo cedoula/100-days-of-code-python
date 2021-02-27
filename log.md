@@ -22,6 +22,15 @@ I have created a program generating a band name from user inputs.
 
 ### Day 3: February 27, 2021
 
+**Today's Progress**: Today I reviewed conditional statements, comparison and logical operators, code block and scope.
+
+**Thoughts** It was interesting to use nested if/elif/else statements, multiple if statements. I had fun building the love_calculator and treasure_island games. Good revision of functions like lower() and count() and how to include ASCII art with print('''     ''''). 
+
+**Link(s) to work**
+
+
+### Day 4: February 28, 2021
+
 **Today's Progress**: 
 
 **Thoughts**
