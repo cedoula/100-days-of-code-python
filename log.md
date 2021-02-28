@@ -35,7 +35,7 @@ I have created a program generating a band name from user inputs.
 
 **Thoughts** Great content and I am happy to have built a Rock Paper Scissors game to play against the computer.
 
-**Link(s) to work**
+**Link(s) to work** [Rock Paper Scissors](https://github.com/cedoula/100-days-of-code/blob/master/Projects/Day_04/rock_paper_scissors.py)
 
 
 ### Day 5: March 1, 2021
