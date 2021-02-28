@@ -31,7 +31,7 @@ I have created a program generating a band name from user inputs.
 
 ### Day 4: February 28, 2021
 
-**Today's Progress**: Today I worked on randomisation and python lists. I reviewed the random module and some of its functions (random(), randint(), choice(),...) and used lists and nested lists.
+**Today's Progress**: Today I worked on randomization and python lists. I reviewed the random module and some of its functions (random(), randint(), choice(),...) and used lists and nested lists.
 
 **Thoughts** Great content and I am happy to have built a Rock Paper Scissors game to play against the computer.
 
