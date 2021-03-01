@@ -40,6 +40,15 @@ I have created a program generating a band name from user inputs.
 
 ### Day 5: March 1, 2021
 
+**Today's Progress**: Today I reviewed the For loop, the range function, and code blocks.
+
+**Thoughts** I built a very useful password generator using list comprehension, random.shuffle(*list*), and ''.join(*list*).
+
+**Link(s) to work**
+
+
+### Day 6: March 2, 2021
+
 **Today's Progress**: 
 
 **Thoughts**
