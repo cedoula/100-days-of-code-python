@@ -44,7 +44,7 @@ I have created a program generating a band name from user inputs.
 
 **Thoughts** I built a very useful password generator using list comprehension, random.shuffle(*list*), and ''.join(*list*).
 
-**Link(s) to work**
+**Link(s) to work** [PyPassword Generator](https://github.com/cedoula/100-days-of-code/blob/master/Projects/Day_05/pypassword_generator.py)
 
 
 ### Day 6: March 2, 2021
