@@ -55,7 +55,7 @@ I have created a program generating a band name from user inputs.
 
 **Link(s) to work** [Reeborg's Maze](https://github.com/cedoula/100-days-of-code/blob/master/Projects/Day_06/reeborg_maze.py) 
 
-![Alt Text](https://user-images.githubusercontent.com/68669675/109680272-f943e880-7b41-11eb-941c-834e0918c596.gif)
+![Alt Text](https://user-images.githubusercontent.com/68669675/109681194-d9f98b00-7b42-11eb-9eb7-e5a4f46fdbe3.gif)
 
 
 ### Day 7: March 3, 2021
