@@ -49,6 +49,15 @@ I have created a program generating a band name from user inputs.
 
 ### Day 6: March 2, 2021
 
+**Today's Progress**: Today I covered Python functions, code blocks and the While loop.
+
+**Thoughts** I really enjoy the Reeborg Maze debugging cases. This was challenging.
+
+**Link(s) to work** [Reeborg's Maze]() 'link to gif'
+
+
+### Day 7: March 3, 2021
+
 **Today's Progress**: 
 
 **Thoughts**
