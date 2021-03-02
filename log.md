@@ -53,7 +53,9 @@ I have created a program generating a band name from user inputs.
 
 **Thoughts** I really enjoy the Reeborg Maze debugging cases. This was challenging.
 
-**Link(s) to work** [Reeborg's Maze]() 'link to gif'
+**Link(s) to work** [Reeborg's Maze](https://github.com/cedoula/100-days-of-code/blob/master/Projects/Day_06/reeborg_maze.py) 
+
+![Alt Text](https://user-images.githubusercontent.com/68669675/109680272-f943e880-7b41-11eb-941c-834e0918c596.gif)
 
 
 ### Day 7: March 3, 2021
