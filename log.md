@@ -64,7 +64,7 @@ I have created a program generating a band name from user inputs.
 
 **Thoughts** The game is fun and allowed me to go over modules, loops, conditional and math operators, and list comprehension.
 
-**Link(s) to work**
+**Link(s) to work** [Hangman Game](https://github.com/cedoula/100-days-of-code/tree/master/Projects/Day_07)
 
 
 ### Day 8: March 4, 2021
