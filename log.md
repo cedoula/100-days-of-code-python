@@ -60,6 +60,15 @@ I have created a program generating a band name from user inputs.
 
 ### Day 7: March 3, 2021
 
+**Today's Progress**: Today I have built a hangman game with Python.
+
+**Thoughts** The game is fun and allowed me to go over modules, loops, conditional and math operators, and list comprehension.
+
+**Link(s) to work**
+
+
+### Day 8: March 4, 2021
+
 **Today's Progress**: 
 
 **Thoughts**
