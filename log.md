@@ -87,6 +87,15 @@ I have created a program generating a band name from user inputs.
 
 ### Day 10: March 6, 2021
 
+**Today's Progress**: Today I went over Python functions with outputs and recursion.
+
+**Thoughts** I have built a calculator program.
+ 
+**Link(s) to work**
+
+
+### Day 11: March 7, 2021
+
 **Today's Progress**: 
 
 **Thoughts**
