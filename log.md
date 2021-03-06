@@ -78,6 +78,15 @@ I have created a program generating a band name from user inputs.
 
 ### Day 9: March 5, 2021
 
+**Today's Progress**: Today I reviewed Python dictionaries and nesting.
+
+**Thoughts** I have built an auction program.
+
+**Link(s) to work**
+
+
+### Day 10: March 6, 2021
+
 **Today's Progress**: 
 
 **Thoughts**
