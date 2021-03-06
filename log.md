@@ -91,7 +91,7 @@ I have created a program generating a band name from user inputs.
 
 **Thoughts** I have built a calculator program.
  
-**Link(s) to work**
+**Link(s) to work** [Calculator Program](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_10)
 
 
 ### Day 11: March 7, 2021
