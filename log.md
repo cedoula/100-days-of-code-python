@@ -100,7 +100,7 @@ I have created a program generating a band name from user inputs.
 
 **Thoughts** I built a Blackjack game with python.
 
-**Link(s) to work**
+**Link(s) to work** [Blackjack game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_11)
 
 
 ### Day 12: March 8, 2021
