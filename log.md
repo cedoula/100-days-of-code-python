@@ -96,6 +96,15 @@ I have created a program generating a band name from user inputs.
 
 ### Day 11: March 7, 2021
 
+**Today's Progress**: First capstone project in this program. 
+
+**Thoughts** I built a Blackjack game with python.
+
+**Link(s) to work**
+
+
+### Day 12: March 8, 2021
+
 **Today's Progress**: 
 
 **Thoughts**
