@@ -105,6 +105,15 @@ I have created a program generating a band name from user inputs.
 
 ### Day 12: March 8, 2021
 
+**Today's Progress**: Today I reviewed Python Local vs Global Scope.
+
+**Thoughts** Interesting topic. Used local and global variables in the functions used to build the Mystery Number game.
+
+**Link(s) to work**
+
+
+### Day 13: March 9, 2021
+
 **Today's Progress**: 
 
 **Thoughts**
