@@ -109,7 +109,7 @@ I have created a program generating a band name from user inputs.
 
 **Thoughts** Interesting topic. Used local and global variables in the functions used to build the Mystery Number game.
 
-**Link(s) to work**
+**Link(s) to work** [Mystery Number game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_12)
 
 
 ### Day 13: March 9, 2021
