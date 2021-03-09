@@ -105,11 +105,15 @@ I have created a program generating a band name from user inputs.
 
 ### Day 12: March 8, 2021
 
-**Today's Progress**: Today I reviewed Python Local vs Global Scope.
+**Today's Progress**: Today I reviewed Python Local vs Global Scope.\
+I also completed a machine learning project where I used TensorFlow Neural Networks for Image Classification.
 
-**Thoughts** Interesting topic. Used local and global variables in the functions used to build the Mystery Number game.
+**Thoughts** Interesting topic about python namescapes. Used local and global variables in the functions used to build the Mystery Number game.\
+It was a few weeks since I worked on a datascience project so I really enjoyed going over the image classifier project.
 
-**Link(s) to work** [Mystery Number game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_12)
+**Link(s) to work** 
+- [Mystery Number game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_12)
+- [NN Image Classification](https://github.com/cedoula/TensorFlow-Basic-Image-Classification)
 
 
 ### Day 13: March 9, 2021
