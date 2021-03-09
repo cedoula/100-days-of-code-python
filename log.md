@@ -118,6 +118,14 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 13: March 9, 2021
 
+**Today's Progress**: Today I practiced debugging code.
+
+**Thoughts** Apply the 10 debugging steps method!
+
+**Link(s) to work** 
+
+### Day 14: March 10, 2021
+
 **Today's Progress**: 
 
 **Thoughts**
