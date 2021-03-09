@@ -122,7 +122,7 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** Apply the 10 debugging steps method!
 
-**Link(s) to work** 
+**Link(s) to work** [Debugging Steps](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_13/Debugging_steps.pdf)
 
 ### Day 14: March 10, 2021
 
