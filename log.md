@@ -131,7 +131,7 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** Good challenge to define the logic of the game from scratch.
 
-**Link(s) to work**
+**Link(s) to work** [Higher Lower game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_14)
 
 
 ### Day 15: March 11, 2021
