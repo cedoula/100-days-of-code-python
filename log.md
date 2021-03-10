@@ -124,7 +124,17 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Link(s) to work** [Debugging Steps](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_13/Debugging_steps.pdf)
 
+
 ### Day 14: March 10, 2021
+
+**Today's Progress**: Today I have built a Higher Lower game with Python.
+
+**Thoughts** Good challenge to define the logic of the game from scratch.
+
+**Link(s) to work**
+
+
+### Day 15: March 11, 2021
 
 **Today's Progress**: 
 
