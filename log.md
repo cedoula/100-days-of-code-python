@@ -149,7 +149,7 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** I refactored the coffee machine program using classes methods and attributes.
 
-**Link(s) to work**
+**Link(s) to work** [Coffee Machine OOP program](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_16/oop-coffee-machine)
 
 
 ### Day 17: March 13, 2021
