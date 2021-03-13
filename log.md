@@ -145,6 +145,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 16: March 12, 2021
 
+**Today's Progress**: Today I reviewed Python OOP.
+
+**Thoughts** I refactored the coffee machine program using classes methods and attributes.
+
+**Link(s) to work**
+
+
+### Day 17: March 13, 2021
+
 **Today's Progress**: 
 
 **Thoughts**
