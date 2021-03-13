@@ -140,7 +140,7 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** It was interesting to define the logic of the progam.
 
-**Link(s) to work**
+**Link(s) to work** [Coffee Machine program](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_15/Coffee_Machine)
 
 
 ### Day 16: March 12, 2021
