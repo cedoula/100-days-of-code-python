@@ -136,6 +136,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 15: March 11, 2021
 
+**Today's Progress**: Today I have built a Coffe Machine program with Python.
+
+**Thoughts** It was interesting to define the logic of the progam.
+
+**Link(s) to work**
+
+
+### Day 16: March 12, 2021
+
 **Today's Progress**: 
 
 **Thoughts**
