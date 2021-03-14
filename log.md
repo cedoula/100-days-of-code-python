@@ -158,4 +158,13 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** I have built a quiz game with questions from Trivia API. Using classes with attributes and methods make it really easier to implement programs.
 
-**Link(s) to work** 
+**Link(s) to work** [Quiz Game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_17/quiz-game)
+
+
+### Day 18: March 14, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
