@@ -154,8 +154,8 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 17: March 13, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Continued to work with Python OOP paradigm.
 
-**Thoughts**
+**Thoughts** I have built a quiz game with questions from Trivia API. Using classes with attributes and methods make it really easier to implement programs.
 
-**Link(s) to work**
+**Link(s) to work** 
