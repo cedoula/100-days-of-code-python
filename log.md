@@ -178,7 +178,8 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** Interesting to work with multiple instances of a class and the grid system.
 
-**Link(s) to work**
+**Link(s) to work** [Turtle Race game](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_19/main.py)
+![Alt Text](https://user-images.githubusercontent.com/68669675/111229179-772cd880-85b3-11eb-8c98-80d03ac77840.gif)
 
 
 ### Day 20: March 16, 2021
