@@ -174,6 +174,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 19: March 15, 2021
 
+**Today's Progress**: Continued to work with Python Turtle Graphics, event listeners, state and multiple instances.
+
+**Thoughts** Interesting to work with multiple instances of a class and the grid system.
+
+**Link(s) to work**
+
+
+### Day 20: March 16, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
