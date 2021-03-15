@@ -163,6 +163,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 18: March 14, 2021
 
+**Today's Progress**: I worked on Turtle Graphics, and reviewed tuples and importing modules.
+
+**Thoughts** Made a very cool Damien Hirst style painting.
+
+**Link(s) to work**
+
+
+### Day 19: March 15, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
