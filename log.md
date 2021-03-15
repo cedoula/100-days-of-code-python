@@ -167,7 +167,9 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** Made a very cool Damien Hirst style painting.
 
-**Link(s) to work**
+**Link(s) to work** [Hirst Painting](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_18/hirst-painting/main.py)
+
+![Alt Text](https://user-images.githubusercontent.com/68669675/111106847-d216ef00-8523-11eb-81fd-69d9a4622fab.gif)
 
 
 ### Day 19: March 15, 2021
