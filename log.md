@@ -188,7 +188,7 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** Great fun building the game!
 
-**Link(s) to work**
+**Link(s) to work** [The Snake Game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_20)
 
 
 ### Day 21: March 17, 2021
