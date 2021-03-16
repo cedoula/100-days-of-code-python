@@ -184,6 +184,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 20: March 16, 2021
 
+**Today's Progress**: Still working with Turtle Graphics and started building the Snake Game.
+
+**Thoughts** Great fun building the game!
+
+**Link(s) to work**
+
+
+### Day 21: March 17, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
