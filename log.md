@@ -189,7 +189,7 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** Great fun building the game!
 
-**Link(s) to work** [The Snake Game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_20)
+**Link(s) to work** [The Snake Game - part 1](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_20)
 
 
 ### Day 21: March 17, 2021
@@ -198,8 +198,9 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** Finished the Snake Game! Try it if you'd like to go back to the Nokia 3310 days.
 
-**Link(s) to work**
+**Link(s) to work** [The Snake Game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_21)
 
+![Alt Text](https://user-images.githubusercontent.com/68669675/111501795-482d7880-8713-11eb-9fbe-0933c69d9c14.gif)
 
 ### Day 22: March 18, 2021
 
