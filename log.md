@@ -194,6 +194,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 21: March 17, 2021
 
+**Today's Progress**: Reviewed Python class inheritance and slicing.
+
+**Thoughts** Finished the Snake Game! Try it if you'd like to go back to the Nokia 3310 days.
+
+**Link(s) to work**
+
+
+### Day 22: March 18, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
