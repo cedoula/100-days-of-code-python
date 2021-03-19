@@ -204,6 +204,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 22: March 18, 2021
 
+**Today's Progress**: Still using python OOP structure to building a program.
+ 
+**Thoughts** I have built a cool old school Pong game!
+
+**Link(s) to work**
+
+
+### Day 23: March 19, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
