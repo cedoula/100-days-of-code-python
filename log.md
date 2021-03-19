@@ -208,8 +208,9 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
  
 **Thoughts** I have built a cool old school Pong game!
 
-**Link(s) to work**
+**Link(s) to work** [Pong Game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_22)
 
+![Alt Text](https://user-images.githubusercontent.com/68669675/111715342-a052a080-8821-11eb-8e28-204d6c0cb52d.gif)
 
 ### Day 23: March 19, 2021
 
