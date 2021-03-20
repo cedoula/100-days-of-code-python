@@ -7,38 +7,38 @@ from scoreboard import Scoreboard
 
 screen = Screen()
 screen.setup(width=600, height=600)
+screen.title("Cedric's Turtle Crossing")
 screen.tracer(0)
 
 screen.listen()
 
 player = Player()
+car_manager = CarManager()
+scoreboard = Scoreboard()
 screen.onkey(player.move, "Up")
 
 game_is_on = True
-game_loop_count = 0
-moving_rate = STARTING_MOVE_DISTANCE
 while game_is_on:
     time.sleep(0.1)
+    screen.update()
     
-    game_loop_count +=1
+    car_manager.create_car()
+    car_manager.move_cars()
+    
+    for car in car_manager.all_cars:
+        if player.distance(car) < 20:
+            game_is_on = False
+            scoreboard.game_over()
 
-    if game_loop_count % 6 == 0:
-        car = CarManager()
-    for car in screen.turtles():
-        if car.shape() == "square":
-            car.move()
-            #Detect collision with car
-            if player.distance(car) < 15:
-                game_is_on = False
     if player.reached_finish_line():
         player.go_to_start_line()
-        for car in screen.turtles():
-            if car.shape() == "square":
-                car.speed_up()
-                print(car.moving_rate)
+        car_manager.speed_up()
+        scoreboard.level +=1
+        scoreboard.update_scoreboard()
 
 
-    screen.update()
+
+    
     
     
 
