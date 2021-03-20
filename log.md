@@ -212,7 +212,19 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ![Alt Text](https://user-images.githubusercontent.com/68669675/111715342-a052a080-8821-11eb-8e28-204d6c0cb52d.gif)
 
+
 ### Day 23: March 19, 2021
+
+**Today's Progress**: Still exploring Python Turtle Graphics.
+
+**Thoughts** I have built a Turtle Crossing game.
+
+**Link(s) to work** [Turtle Crossing Game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_23/turtle-crossing)
+
+![Alt Text](https://user-images.githubusercontent.com/68669675/111859557-bb034300-890f-11eb-9b52-b3880b8b777d.gif)
+
+
+### Day 24: March 20, 2021
 
 **Today's Progress**: 
 
