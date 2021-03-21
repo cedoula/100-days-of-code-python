@@ -232,7 +232,7 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Link(s) to work** 
 - [Modified Snake Game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_24/snake-game)
-- [Mail Merge Project](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_24/mail-merge-projec)
+- [Mail Merge Project](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_24/mail-merge-project)
 
 
 ### Day 25: March 21, 2021
