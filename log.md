@@ -230,7 +230,9 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** I reviewed how to open and edit files.
 
-**Link(s) to work**
+**Link(s) to work** 
+- [Modified Snake Game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_24/snake-game)
+- [Mail Merge Project](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_24/mail-merge-projec)
 
 
 ### Day 25: March 21, 2021
