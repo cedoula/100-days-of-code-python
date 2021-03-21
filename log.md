@@ -226,6 +226,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 24: March 20, 2021
 
+**Today's Progress**: Today I used Python with local files, directories and reviewed absolute and relative paths.
+
+**Thoughts** I reviewed how to open and edit files.
+
+**Link(s) to work**
+
+
+### Day 25: March 21, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
