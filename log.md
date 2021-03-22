@@ -237,6 +237,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 25: March 21, 2021
 
+**Today's Progress**: I worked with csv files and analyzed data with Pandas.
+
+**Thoughts** I built a great game to learn the 50 states in the U.S.A.
+
+**Link(s) to work** 
+
+
+### Day 26: March 22, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
