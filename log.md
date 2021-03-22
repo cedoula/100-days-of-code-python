@@ -241,7 +241,9 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** I built a great game to learn the 50 states in the U.S.A.
 
-**Link(s) to work** 
+**Link(s) to work** [U.S. States Game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_25/us-states-game)
+
+![Alt Text](https://user-images.githubusercontent.com/68669675/112030299-2283e300-8b08-11eb-937c-19ce02d9aeb7.gif)
 
 
 ### Day 26: March 22, 2021
