@@ -248,6 +248,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 26: March 22, 2021
 
+**Today's Progress**: I have reviewed python list and dictionary comprehension and pandas dataframe row iteration.
+
+**Thoughts** Good content.
+
+**Link(s) to work**
+
+
+### Day 27: March 23, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
