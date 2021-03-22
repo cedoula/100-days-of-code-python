@@ -252,7 +252,7 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** Good content.
 
-**Link(s) to work**
+**Link(s) to work** [NATO Phonetic Alphabet](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_26/NATO-alphabet)
 
 
 ### Day 27: March 23, 2021
