@@ -261,7 +261,7 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** I had fun building my first GUI with Tkinter, a miles to kms converter.
 
-**Link(s) to work** [Miles to Kms Converter GUI]
+**Link(s) to work** [Miles to Kms Converter GUI](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_27)
 
 
 ### Day 28: March 24, 2021
