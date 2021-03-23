@@ -257,6 +257,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 27: March 23, 2021
 
+**Today's Progress**: Started to work with Tkinter library and went over *args and **kwargs for function arguments.
+
+**Thoughts** I had fun building my first GUI with Tkinter, a miles to kms converter.
+
+**Link(s) to work** [Miles to Kms Converter GUI]
+
+
+### Day 28: March 24, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
