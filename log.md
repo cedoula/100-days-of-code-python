@@ -270,7 +270,7 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** I made a useful Pomodoro program that can come very handy.
 
-**Link(s) to work** [Pomodoro App]()
+**Link(s) to work** [Pomodoro App](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_28/pomodoro-start)
 
 
 ### Day 29: March 25, 2021
