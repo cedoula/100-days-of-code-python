@@ -266,6 +266,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 28: March 24, 2021
 
+**Today's Progress**: Continued to work with Tkinter and went over function recursion and dynamic typing.
+
+**Thoughts** I made a useful Pomodoro program that can come very handy.
+
+**Link(s) to work** [Pomodoro App]()
+
+
+### Day 29: March 25, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
