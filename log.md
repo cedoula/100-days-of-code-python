@@ -275,6 +275,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 29: March 25, 2021
 
+**Today's Progress**: Still working with Tkinter.
+
+**Thoughts** I made a great password manager GUI.
+
+**Link(s) to work** [Password Manager GUI]()
+
+
+### Day 30: March 26, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
