@@ -279,7 +279,7 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** I made a great password manager GUI.
 
-**Link(s) to work** [Password Manager GUI]()
+**Link(s) to work** [Password Manager GUI](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_29/password-manager)
 
 
 ### Day 30: March 26, 2021
