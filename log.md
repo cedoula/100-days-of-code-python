@@ -284,6 +284,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 30: March 26, 2021
 
+**Today's Progress**: I improved the Password Manager GUI using error and exception handling and json format.
+
+**Thoughts** The fully fledged password manager comes very handy.
+
+**Link(s) to work** [Improved Password Manager GUI]()
+
+
+### Day 31: March 27, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
