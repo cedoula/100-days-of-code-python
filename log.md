@@ -288,7 +288,9 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Thoughts** The fully fledged password manager comes very handy.
 
-**Link(s) to work** [Improved Password Manager GUI]()
+**Link(s) to work**
+- [Improved Password Manager GUI](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_30/password-manager)
+- [Improved NATO Phonetic Alphabet](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_30/NATO-alphabet-refactored)
 
 
 ### Day 31: March 27, 2021
