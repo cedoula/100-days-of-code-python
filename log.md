@@ -295,6 +295,17 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 31: March 27, 2021
 
+**Today's Progress**: I built a great flash card program to learn French words.
+
+**Thoughts** This program can easily be adapted to learn other languages or subjects. 
+
+**Link(s) to work** [Flash Card Project]()
+
+![Alt Text](https://user-images.githubusercontent.com/68669675/112759676-b860b780-8fb9-11eb-82e0-29684f253637.gif)
+
+
+### Day 32: March 28, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
