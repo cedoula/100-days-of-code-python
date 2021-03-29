@@ -12,9 +12,12 @@ import pandas as pd
 import datetime as dt
 from random import choice
 import smtplib
+import os,sys,inspect
+currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+parentdir = os.path.dirname(currentdir)
+sys.path.insert(0,parentdir)
 
-my_email = "cedric.vanza@gmail.com"
-password = "4RJM)v56RU1%rG"
+from email_info import my_email, password
 
 #Import birthday csv into dataframe
 birthdays_df = pd.read_csv("birthdays.csv")

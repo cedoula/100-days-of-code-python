@@ -311,6 +311,8 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 **Thoughts** I created a program to automatically send birthday emails and deployed it on [pythonanywhere.com](https://www.pythonanywhere.com/).
 
 **Link(s) to work** 
+- [Birthday Wisher](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_32/Birthday-Wisher)
+- [Motivational Quotes]
 
 
 ### Day 33: March 29, 2021
