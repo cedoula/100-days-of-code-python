@@ -306,6 +306,15 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 32: March 28, 2021
 
+**Today's Progress**: Today I went over smtplib and the datetime module in Python.
+
+**Thoughts** I created a program to automatically send birthday emails and deployed it on [pythonanywhere.com](https://www.pythonanywhere.com/).
+
+**Link(s) to work** 
+
+
+### Day 33: March 29, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
