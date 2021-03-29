@@ -323,8 +323,8 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 I also built a Kanye West quote GUI.
 
 **Link(s) to work** 
-- [ISS Overhead]()
-- [Kanye Quotes]
+- [ISS Overhead](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_33/issoverhead/main.py)
+- [Kanye Quotes](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_33/kanye-quotes)
 
 
 ### Day 34: March 30, 2021
