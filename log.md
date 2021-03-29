@@ -312,7 +312,7 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 **Link(s) to work** 
 - [Birthday Wisher](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_32/Birthday-Wisher)
-- [Motivational Quotes]
+- [Motivational Quotes](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_32/Birthday-Wisher)
 
 
 ### Day 33: March 29, 2021
