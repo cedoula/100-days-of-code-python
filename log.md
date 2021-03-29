@@ -317,6 +317,18 @@ It was a few weeks since I worked on a datascience project so I really enjoyed g
 
 ### Day 33: March 29, 2021
 
+**Today's Progress**: I worked with APIs and requests module.
+
+**Thoughts** I built a program to check the location of the ISS and notify me by email when the station passes overhead of my location.\
+I also built a Kanye West quote GUI.
+
+**Link(s) to work** 
+- [ISS Overhead]()
+- [Kanye Quotes]
+
+
+### Day 34: March 30, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
