@@ -329,6 +329,15 @@ I also built a Kanye West quote GUI.
 
 ### Day 34: March 30, 2021
 
+**Today's Progress**: Improved the Quiz app using Tkinter and requests to the Trivia API.
+
+**Thoughts** Great quiz app!
+
+**Link(s) to work** [Quiz Game]()
+
+
+### Day 35: March 31, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
