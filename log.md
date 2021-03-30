@@ -333,7 +333,7 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** Great quiz app!
 
-**Link(s) to work** [Quiz Game]()
+**Link(s) to work** [Quiz Game](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_34/quizzler-app)
 
 
 ### Day 35: March 31, 2021
