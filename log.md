@@ -338,6 +338,15 @@ I also built a Kanye West quote GUI.
 
 ### Day 35: March 31, 2021
 
+**Today's Progress**: I used OWM API endpoint, and Twilio module, [pythonanywhere.com](https://www.pythonanywhere.com/), and environment variables to build an application that will send me an early morning SMS ☔️ alert when it will be raining during the day.
+
+**Thoughts** Great content.
+
+**Link(s) to work** [SMS Rain Alert App](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_35/main.py)
+
+
+### Day 36: April 1, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
