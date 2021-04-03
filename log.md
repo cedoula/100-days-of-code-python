@@ -347,8 +347,17 @@ I also built a Kanye West quote GUI.
 
 ### Day 36: April 1, 2021
 
+**Today's Progress**: I built a stock trading news alert program that notifies by SMS when the stock I am following changes by more than 5%.
+
+**Thoughts** Very useful program.
+
+**Link(s) to work** [Stock Trading News Alert Project](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_36/stock-news/main.py)
+
+
+## Day 37: April 2, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
 
-**Link(s) to work**
+**Link(s) to work** 
