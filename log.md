@@ -369,7 +369,7 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** Good o go over post requests and advanced authentication.
 
-**Link(s) to work** [Workout Tracker]()
+**Link(s) to work** [Workout Tracker](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_38/workout-tracker/main.py)
 
 
 ## Day 39: April 4, 2021
