@@ -360,7 +360,7 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** I made a Pixela habit tracker program.
 
-**Link(s) to work** [Habit Tracker]()
+**Link(s) to work** [Habit Tracker](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_37/habit-tracker/main.py)
 
 
 ## Day 38: April 3, 2021
