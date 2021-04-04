@@ -356,6 +356,15 @@ I also built a Kanye West quote GUI.
 
 ## Day 37: April 2, 2021
 
+**Today's Progress**: I went over API advanced authentication and POST/PUT/DELETE Requests.
+
+**Thoughts** I made a Pixela habit tracker program.
+
+**Link(s) to work** [Habit Tracker]()
+
+
+## Day 38: April 3, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
