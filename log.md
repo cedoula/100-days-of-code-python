@@ -365,6 +365,15 @@ I also built a Kanye West quote GUI.
 
 ## Day 38: April 3, 2021
 
+**Today's Progress**: I created a program to track my workouts via a Google sheet.
+
+**Thoughts** Good o go over post requests and advanced authentication.
+
+**Link(s) to work** [Workout Tracker]()
+
+
+## Day 39: April 4, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
