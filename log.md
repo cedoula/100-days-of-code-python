@@ -374,8 +374,17 @@ I also built a Kanye West quote GUI.
 
 ## Day 39: April 4, 2021
 
+**Today's Progress**: I made a flight deal finder program that notifies me of cheap flights by SMS.
+
+**Thoughts** Good project using OOP and APIs.
+
+**Link(s) to work** [Flight Deal Finder](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_39/flight-deals)
+
+
+## Day 40: April 5, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
 
-**Link(s) to work** 
+**Link(s) to work**
