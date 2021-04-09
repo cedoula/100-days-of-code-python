@@ -383,6 +383,17 @@ I also built a Kanye West quote GUI.
 
 ## Day 40: April 5, 2021
 
+**Today's Progress**: I finished the Flight Deal Finder by adding a Google Sheet for users information and function to email the flight deals with Google Flight Link to the users.
+
+**Thoughts** Pretty complete project.
+
+**Link(s) to work** 
+- [Cedric's Flight Club](https://replit.com/join/tkunkeyx-cdriclutonda)
+- [Flight Deal Finder]()
+
+
+## Day 41: April 6, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
