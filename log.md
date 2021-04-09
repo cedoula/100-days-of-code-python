@@ -389,7 +389,7 @@ I also built a Kanye West quote GUI.
 
 **Link(s) to work** 
 - [Cedric's Flight Club](https://replit.com/join/tkunkeyx-cdriclutonda)
-- [Flight Deal Finder]()
+- [Flight Deal Finder](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_40/flight-deals)
 
 
 ## Day 41: April 6, 2021
