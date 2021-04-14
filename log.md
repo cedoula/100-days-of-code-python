@@ -392,7 +392,16 @@ I also built a Kanye West quote GUI.
 - [Flight Deal Finder](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_40/flight-deals)
 
 
-## Day 41: April 6, 2021
+## Day 41: April 13, 2021
+
+**Today's Progress**: I started reviewing HTML.
+
+**Thoughts** Started to create a simple personal webpage.
+
+**Link(s) to work** [Personal Site]()
+
+
+## Day 42: April 14, 2021
 
 **Today's Progress**: 
 
