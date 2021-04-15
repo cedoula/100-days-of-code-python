@@ -403,8 +403,8 @@ I also built a Kanye West quote GUI.
 
 ## Day 42: April 14, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Continued to review HTML tables and input forms.
 
-**Thoughts** 
+**Thoughts** Good content to review.
 
-**Link(s) to work**
+**Link(s) to work** [Personal Site](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_41-42/HTML-Personal_Site)
