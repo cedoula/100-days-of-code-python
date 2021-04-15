@@ -398,7 +398,7 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** Started to create a simple personal webpage.
 
-**Link(s) to work** [Personal Site](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_41/HTML-Personal_Site)
+**Link(s) to work** [Personal Site](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_41-42/HTML-Personal_Site)
 
 
 ## Day 42: April 14, 2021
