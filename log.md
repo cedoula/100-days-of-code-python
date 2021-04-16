@@ -398,7 +398,7 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** Started to create a simple personal webpage.
 
-**Link(s) to work** [Personal Site](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_41-42/HTML-Personal_Site)
+**Link(s) to work** [Personal Site](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_41-43/HTML-Personal_Site)
 
 
 ## Day 42: April 14, 2021
@@ -407,7 +407,7 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** Good content to review.
 
-**Link(s) to work** [Personal Site](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_41-42/HTML-Personal_Site)
+**Link(s) to work** [Personal Site](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_41-43/HTML-Personal_Site)
 
 
 ## Day 43: April 15, 2021
@@ -416,4 +416,4 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** Good content to review.
 
-**Link(s) to work** [Personal Site](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_41-42/HTML-Personal_Site)
+**Link(s) to work** [Personal Site](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_41-43/HTML-Personal_Site)
