@@ -417,3 +417,12 @@ I also built a Kanye West quote GUI.
 **Thoughts** Good content to review.
 
 **Link(s) to work** [Personal Site](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_41-43/HTML-Personal_Site)
+
+
+## Day 44: April 16, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
