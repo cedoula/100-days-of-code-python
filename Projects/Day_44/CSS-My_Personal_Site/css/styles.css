@@ -5,20 +5,12 @@
 }
 
 .middle-container {
-    width: 200px;
-    height: 200px;
-    background-color: red;
-    position: absolute;
-    left: 200px;
+    margin: 100px auto 100px 0;
 }
 
 .bottom-container {
-    width: 200px;
-    height: 200px;
-    background-color: blue;
-    position: absolute;
-    left: 400px;
-    top: 735px;
+    background-color: #b8b5ff;
+    padding: 50px 0 20px;
 }
 
 span {
@@ -28,16 +20,119 @@ span {
 body {
     margin: 0;
     text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
 }
 
 .top-cloud {
     position: absolute;
     right: 600px;
-    top: 50px;
+    top: 40px;
 }
 
 .bottom-cloud {
     position: absolute;
-    left: 600px;
+    left: 550px;
     bottom: 300px;
+}
+
+h1 {
+    font-size: 5.625rem;
+    font-family: 'Great Vibes', cursive;
+    margin: 50px auto 0 auto;
+    color: #23049d;
+    /*line-height: 2;*/
+}
+
+h2,
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #23049d;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+h3,
+.footer-link {
+    color: #11999E;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.data_analysis_skill {
+    width: 25%;
+    float: left;
+    margin: 0 30px 30px auto;
+}
+
+.hr-reset {
+    clear: left;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+a {
+    color: #23049d;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eaf6f6;
+}
+
+.copyright {
+    color: #eaf6f6;
+    padding: 20px 0;
 }
