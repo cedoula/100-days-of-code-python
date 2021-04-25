@@ -421,6 +421,15 @@ I also built a Kanye West quote GUI.
 
 ## Day 44: April 16, 2021
 
+**Today's Progress**: Continued to review web foundations with CSS styling.
+
+**Thoughts** Good progress on styling the Personal Site.
+
+**Link(s) to work** [Personal Site](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_44/CSS-My_Personal_Site)
+
+
+## Day 45: April 17, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
