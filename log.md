@@ -430,6 +430,15 @@ I also built a Kanye West quote GUI.
 
 ## Day 45: April 17, 2021
 
+**Today's Progress**: Started to review web scraping with BeautifulSoup.
+
+**Thoughts** Issue encountered when scraping [https://www.empireonline.com/movies/features/best-movies-2](https://www.empireonline.com/movies/features/best-movies-2/).
+
+**Link(s) to work** 
+
+
+## Day 46: April 18, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
