@@ -439,6 +439,15 @@ I also built a Kanye West quote GUI.
 
 ## Day 46: April 18, 2021
 
+**Today's Progress**: Still working on web scraping with BeautifulSoup and APIs.
+
+**Thoughts** I made a program to create a Spotify playlist from a date entered by the user.
+
+**Link(s) to work** [Spotify Playlist Creator]()
+
+
+## Day 47: April 19, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
