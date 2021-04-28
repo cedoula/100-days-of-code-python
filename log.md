@@ -443,7 +443,7 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** I made a program to create a Spotify playlist from a date entered by the user.
 
-**Link(s) to work** [Spotify Playlist Creator]()
+**Link(s) to work** [Spotify Playlist Creator](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_46/main.py)
 
 
 ## Day 47: April 19, 2021
