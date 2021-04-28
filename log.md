@@ -450,7 +450,7 @@ I also built a Kanye West quote GUI.
 
 **Today's Progress**: Today I went over data exploration with Pandas.
 
-**Thoughts** I explored College Majors against Salaries data from PayScale.com.
+**Thoughts** I explored College Majors against Salary data from PayScale.com.
 
 **Link(s) to work** [College Major vs Salary Analysis](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_47)
 
