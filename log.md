@@ -452,7 +452,7 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** I explored College Majors against Salaries data from PayScale.com.
 
-**Link(s) to work** [College Major vs Salary Analysis]()
+**Link(s) to work** [College Major vs Salary Analysis](https://github.com/cedoula/100-days-of-code-python/tree/master/Projects/Day_47)
 
 
 ## Day 48: April 29, 2021
