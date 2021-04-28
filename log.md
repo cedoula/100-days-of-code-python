@@ -446,7 +446,16 @@ I also built a Kanye West quote GUI.
 **Link(s) to work** [Spotify Playlist Creator](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_46/main.py)
 
 
-## Day 47: April 19, 2021
+## Day 47: April 28, 2021
+
+**Today's Progress**: Today I went over data exploration with Pandas.
+
+**Thoughts** I explored College Majors against Salaries data from PayScale.com.
+
+**Link(s) to work** [College Major vs Salary Analysis]()
+
+
+## Day 48: April 29, 2021
 
 **Today's Progress**: 
 

@@ -5,3 +5,4 @@ key.py
 keys.py
 .cache
 token.txt
+.ipynb_checkpoints
