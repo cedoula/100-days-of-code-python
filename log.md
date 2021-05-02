@@ -457,7 +457,7 @@ I also built a Kanye West quote GUI.
 
 ## Day 48: May 2, 2021
 
-**Today's Progress**: Today I analyzed he popularity of different programming languages over time using Pandas and Matplotlib. 
+**Today's Progress**: Today I analyzed the popularity of different programming languages over time using Pandas and Matplotlib. 
 
 **Thoughts** Python is leading the trend since last couple of years.
 
