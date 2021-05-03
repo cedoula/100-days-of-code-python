@@ -470,7 +470,7 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** Used aggregate and merge functions with Pandas.
 
-**Link(s) to work** [LEGO Analysis]()
+**Link(s) to work** [LEGO Analysis](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_49/LEGO_Analysis/Lego_Analysis.ipynb)
 
 
 ## Day 50: May 4, 2021
