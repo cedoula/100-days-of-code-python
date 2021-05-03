@@ -464,7 +464,16 @@ I also built a Kanye West quote GUI.
 **Link(s) to work** [Programming Languages Analysis](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_48/Programming_Languages.ipynb)
 
 
-## Day 49: April 29, 2021
+## Day 49: May 3, 2021
+
+**Today's Progress**: Today I analyzed a dataset of LEGO pieces.
+
+**Thoughts** Used aggregate and merge functions with Pandas.
+
+**Link(s) to work** [LEGO Analysis]()
+
+
+## Day 50: May 4, 2021
 
 **Today's Progress**: 
 
