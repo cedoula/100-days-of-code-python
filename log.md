@@ -475,7 +475,7 @@ I also built a Kanye West quote GUI.
 
 ## Day 50: May 5, 2021
 
-**Today's Progress**: I analyzed Google Trends data about Tesla stock price, US Uemployment Rates vs Web searches.
+**Today's Progress**: I analyzed Google Trends data about Tesla stock price, US Unemployment Rates vs Web searches.
 
 **Thoughts** I used resampling and smoothing functions with Matplolib.
 
