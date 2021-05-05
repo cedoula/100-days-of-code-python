@@ -473,7 +473,16 @@ I also built a Kanye West quote GUI.
 **Link(s) to work** [LEGO Analysis](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_49/LEGO_Analysis/Lego_Analysis.ipynb)
 
 
-## Day 50: May 4, 2021
+## Day 50: May 5, 2021
+
+**Today's Progress**: I analyzed Google Trends data about Tesla stock price, US Uemployment Rates vs Web searches.
+
+**Thoughts** I used resampling and smoothing functions with Matplolib.
+
+**Link(s) to work** [Google Trends Data Visualization](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_50/Google_Trends_Data_Viz/Google_Trends_and_Data_Visualisation.ipynb)
+
+
+## Day 51: May 6, 2021
 
 **Today's Progress**: 
 
