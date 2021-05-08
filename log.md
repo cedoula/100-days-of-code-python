@@ -482,10 +482,10 @@ I also built a Kanye West quote GUI.
 **Link(s) to work** [Google Trends Data Visualization](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_50/Google_Trends_Data_Viz/Google_Trends_and_Data_Visualisation.ipynb)
 
 
-## Day 51: May 6, 2021
+## Day 51: May 8, 2021
 
-**Today's Progress**: 
+**Today's Progress**: I analyzed the Android App Store using Plotly Charts.
 
-**Thoughts** 
+**Thoughts** Very interesting analysis that gives a comprehensive vision of the Android App Store from scrape data.
 
-**Link(s) to work** 
+**Link(s) to work** [Android App Store Analysis]()
