@@ -486,6 +486,15 @@ I also built a Kanye West quote GUI.
 
 **Today's Progress**: I analyzed the Android App Store using Plotly Charts.
 
-**Thoughts** Very interesting analysis that gives a comprehensive vision of the Android App Store from scrape data.
+**Thoughts** Very interesting analysis that gives a comprehensive vision of the Android App Store from scraped data.
 
-**Link(s) to work** [Android App Store Analysis]()
+**Link(s) to work** [Android App Store Analysis](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_51/Google_Play_Store_Project/Google%20Play%20Store%20App%20Analytics.ipynb)
+
+
+## Day 52: May 9, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
