@@ -493,6 +493,15 @@ I also built a Kanye West quote GUI.
 
 ## Day 52: May 9, 2021
 
+**Today's Progress**: I went over computation with NumPy and N-Dimensional Arrays.
+
+**Thoughts** Image manipulation with ndarrays.
+
+**Link(s) to work** [Computation with NumPy]()
+
+
+## Day 53: May 10, 2021
+
 **Today's Progress**: 
 
 **Thoughts** 
