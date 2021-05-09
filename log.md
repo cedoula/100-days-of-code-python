@@ -497,7 +497,7 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** Image manipulation with ndarrays.
 
-**Link(s) to work** [Computation with NumPy]()
+**Link(s) to work** [Computation with NumPy](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_52/Computation_with_NumPy/Computation_with_NumPy_and_N_Dimensional_Arrays.ipynb)
 
 
 ## Day 53: May 10, 2021
