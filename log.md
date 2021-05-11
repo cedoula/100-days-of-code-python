@@ -506,7 +506,7 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** Great insights combining Seaborn regplot and Linear Regression.
 
-**Link(s) to work** [Movie budget and revenue data analysis]()
+**Link(s) to work** [Movie budget and revenue data analysis](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_53/Seaborn_Linear_Regression/Seaborn_and_Linear_Regression.ipynb)
 
 
 ## Day 54: May 12, 2021
