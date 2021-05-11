@@ -500,7 +500,16 @@ I also built a Kanye West quote GUI.
 **Link(s) to work** [Computation with NumPy](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_52/Computation_with_NumPy/Computation_with_NumPy_and_N_Dimensional_Arrays.ipynb)
 
 
-## Day 53: May 10, 2021
+## Day 53: May 11, 2021
+
+**Today's Progress**: I used Scikit Learn linear regression and Seaborn visualization to analyze a dataset of movie budget and revenue.
+
+**Thoughts** Great insights combining Seaborn regplot and Linear Regression.
+
+**Link(s) to work** [Movie budget and revenue data analysis]()
+
+
+## Day 54: May 12, 2021
 
 **Today's Progress**: 
 
