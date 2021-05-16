@@ -509,7 +509,16 @@ I also built a Kanye West quote GUI.
 **Link(s) to work** [Movie budget and revenue data analysis](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_53/Seaborn_Linear_Regression/Seaborn_and_Linear_Regression.ipynb)
 
 
-## Day 54: May 12, 2021
+## Day 54: May 16, 2021
+
+**Today's Progress**: I have performed an Exploratory Data Analysis on the Nobel Prize with Plotly, Matplotlib and Seaborn.
+
+**Thoughts** Great insights.
+
+**Link(s) to work** [Nobel Prize Analysis]()
+
+
+## Day 55: May 17, 2021
 
 **Today's Progress**: 
 
