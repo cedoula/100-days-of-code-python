@@ -515,7 +515,7 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** Great insights.
 
-**Link(s) to work** [Nobel Prize Analysis]()
+**Link(s) to work** [Nobel Prize Analysis](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_54/Nobel_Prize_Analysis/Nobel_Prize_Analysis.ipynb)
 
 
 ## Day 55: May 17, 2021
