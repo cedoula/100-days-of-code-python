@@ -518,7 +518,16 @@ I also built a Kanye West quote GUI.
 **Link(s) to work** [Nobel Prize Analysis](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_54/Nobel_Prize_Analysis/Nobel_Prize_Analysis.ipynb)
 
 
-## Day 55: May 17, 2021
+## Day 55: May 19, 2021
+
+**Today's Progress**: I analyzed the dataset used by Dr Semmelweis in the 1840s to reveal the importance of handwashing in the medical field.
+
+**Thoughts** I used visualizations, distribution analysis and t-Tests.
+
+**Link(s) to work** [Dr Semmelweis Analysis](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_55/Dr_Semmelweis_Analysis/Dr_Semmelweis_Handwashing_Discovery.ipynb)
+
+
+## Day 56: May 20, 2021
 
 **Today's Progress**: 
 
