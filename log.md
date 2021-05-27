@@ -527,7 +527,16 @@ I also built a Kanye West quote GUI.
 **Link(s) to work** [Dr Semmelweis Analysis](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_55/Dr_Semmelweis_Analysis/Dr_Semmelweis_Handwashing_Discovery.ipynb)
 
 
-## Day 56: May 20, 2021
+## Day 56: May 27, 2021
+
+**Today's Progress**: I analyzed a dataset of Boston real estate market in the 70s and created a linear regression predictive model to predict house prices from different features.
+
+**Thoughts** I used Matplotlib, Plotly and Seaborn for the visualizations and Scikit-Learn for the predictions.
+
+**Link(s) to work** [Predict House Prices]()
+
+
+## Day 57: May 28, 2021
 
 **Today's Progress**: 
 
