@@ -533,7 +533,7 @@ I also built a Kanye West quote GUI.
 
 **Thoughts** I used Matplotlib, Plotly and Seaborn for the visualizations and Scikit-Learn for the predictions.
 
-**Link(s) to work** [Predict House Prices]()
+**Link(s) to work** [Predict House Prices](https://github.com/cedoula/100-days-of-code-python/blob/master/Projects/Day_56/Multivariable_Regression/Multivariable_Regression_and_Valuation_Model.ipynb)
 
 
 ## Day 57: May 28, 2021
